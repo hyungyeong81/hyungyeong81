@@ -2,9 +2,8 @@
 
 <h3 align="left">👀  About Myself 👀 </h3>
 <p align="left"> I am studying 📊  statistics 📊 at Sungkyunkwan University, Seoul, South Korea </p>
-<p align="left"> I am mainly interested in statistics & deep learning </p>
-<p align="left"> I also have additional interest in mathematics education, </p>
-<p align="left"> with an experience of teaching mathematics to high school students for 3 years </p>
+<p align="left"> I am mainly interested in statistics & deep learning, </p>
+<p align="left"> and also have additional interest in mathematics education </p>
 <p align="left"> I am currently preparing for graduate school for further studies (statistics major) </p>
 
 <br>

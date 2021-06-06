@@ -52,4 +52,4 @@
 | ```2020 Fall```   | Introduction to Mathematical Statistics(Part 1) </p>Introduction to Regression Analysis </p>Introduction to Statistical Programming                   |
 | ```2020 Winter``` | Basis and Practice in Programming (C basic programming)                                                                                               |
 | ```2021 Spring``` | Linear Algebra </p>Large Data Management and Data Visualization </p>Introduction to Biostatistics </p>Experimental Design </p>Statistical Data Mining |
-| ```2021 Fall```   | ??? |
+| ```2021 Summer```   | Artificial Intelligence Application |

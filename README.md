@@ -52,4 +52,5 @@
 | ```2020 Fall```   | Introduction to Mathematical Statistics(Part 1) </p>Introduction to Regression Analysis </p>Introduction to Statistical Programming                   |
 | ```2020 Winter``` | Basis and Practice in Programming (C basic programming)                                                                                               |
 | ```2021 Spring``` | Linear Algebra </p>Large Data Management and Data Visualization </p>Introduction to Biostatistics </p>Experimental Design </p>Statistical Data Mining |
-| ```2021 Summer```   | Artificial Intelligence Application |
+| ```2021 Summer``` | (Currently Taking) </p>Artificial Intelligence Application |
+| ```2021 Fall```   | (Expected) </p>Practice in Statistical Modeling and Machine Learning </p>Sampling Theory </p>An Introduction to Stochastic Processes </p>Introduction to Nonparametric Statistics </p>Introduction to Multivariate Statistical Analysis |

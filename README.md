@@ -1,10 +1,10 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Hyungyeong&nbsp;Hong's&nbsp;Github&fontSize=50&fontAlign=50)
 
 <h3 align="left">👀  About Myself 👀 </h3>
-<p align="left"> I am studying 📊  statistics 📊 at Sungkyunkwan University, Seoul, South Korea </p>
-<p align="left"> I am mainly interested in statistics & deep learning, </p>
+<p align="left"> I am studying 📊  Statistics 📊 at Sungkyunkwan University, Seoul, South Korea </p>
+<p align="left"> I am mainly interested in Statistics & Deep Learning, </p>
 <p align="left"> and also have additional interest in mathematics education </p>
-<p align="left"> I am currently preparing for graduate school for further studies (statistics major) </p>
+<p align="left"> I am currently preparing for graduate school for further studies (major in Statistics) </p>
 
 <br>
 

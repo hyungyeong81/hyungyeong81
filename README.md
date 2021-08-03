@@ -1,10 +1,9 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Hyungyeong&nbsp;Hong's&nbsp;Github&fontSize=50&fontAlign=50)
 
 <h3 align="left">👀  About Myself 👀 </h3>
-<p align="left"> I am studying 📊  Statistics 📊 at Sungkyunkwan University, Seoul, South Korea </p>
-<p align="left"> I am mainly interested in Statistics & Deep Learning, </p>
-<p align="left"> and also have additional interest in mathematics education </p>
-<p align="left"> I am currently preparing for graduate school for further studies (major in Statistics) </p>
+<p align="left"> I am studying 📊  Statistics 📊 at Sungkyunkwan University (Seoul, South Korea), </p>
+<p align="left"> and currently preparing for graduate school(major in Statistics) for further studies. </p>
+<p align="left"> I am mainly interested in Statistics / Data Analysis / Machine Learning & Deep Learning </p>
 
 <br>
 
@@ -52,5 +51,5 @@
 | ```2020 Fall```   | Introduction to Mathematical Statistics(Part 1) </p>Introduction to Regression Analysis </p>Introduction to Statistical Programming                   |
 | ```2020 Winter``` | Basis and Practice in Programming (C basic programming)                                                                                               |
 | ```2021 Spring``` | Linear Algebra </p>Large Data Management and Data Visualization </p>Introduction to Biostatistics </p>Experimental Design </p>Statistical Data Mining |
-| ```2021 Summer``` | (Currently Taking) </p>Artificial Intelligence Application |
-| ```2021 Fall```   | (Expected) </p>Practice in Statistical Modeling and Machine Learning </p>Sampling Theory </p>An Introduction to Stochastic Processes </p>Introduction to Nonparametric Statistics </p>Introduction to Multivariate Statistical Analysis |
+| ```2021 Summer``` | Artificial Intelligence Application |
+| ```2021 Fall```   | |

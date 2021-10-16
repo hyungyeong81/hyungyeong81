@@ -53,4 +53,3 @@
 | ```2020 Winter``` | Basis and Practice in Programming (C basic programming)                                                                                               |
 | ```2021 Spring``` | Linear Algebra </p>Large Data Management and Data Visualization </p>Introduction to Biostatistics </p>Experimental Design </p>Statistical Data Mining |
 | ```2021 Summer``` | Artificial Intelligence Application |
-| ```2021 Fall```   | Introduction to Bayesian Statistics </p>Introduction to Stochastic Processes </p>Practice in Statistical Modeling and Machine Learning </p>Introduction to Multivariate Statistical Analysis </p>Sampling Theory|

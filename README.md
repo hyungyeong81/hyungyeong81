@@ -4,7 +4,6 @@ I'm mainly interested in **Time Series Analysis & Machine Learning**.
 <a href=https://hyungyeong81.github.io/><img src="https://img.shields.io/badge/Blog-EA4AAA?style=flat-square&logo=GitHub Sponsors&logoColor=white"/></a>
 <a href=https://www.instagram.com/itsaugustfirst/><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a>
 <a href="mailto:hyungyeong81@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
-<a href="mailto:hyungyeong81@naver.com"><img src="https://img.shields.io/badge/Naver-03C75A?style=flat-square&logo=Naver&logoColor=white"/></a>
 
 ### Techs
 <img src="https://img.shields.io/badge/R-276DC3?style=flat-square&logo=R&logoColor=white"/></a>

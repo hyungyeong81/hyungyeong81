@@ -2,7 +2,7 @@
 I'm Hailee Hyungyeong Hong, an undergraduate student who is studying **Statistics** at Sungkyunkwan University.  
 I'm mainly interested in **Time Series Analysis & Machine Learning**.  
 <a href=https://hyungyeong81.github.io/><img src="https://img.shields.io/badge/Blog-EA4AAA?style=flat-square&logo=GitHub Sponsors&logoColor=white"/></a>
-<a href=https://www.instagram.com/itsaugustfirst/><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a>
+<a href=https://www.instagram.com/sugar__glazed/><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a>
 <a href="mailto:hyungyeong81@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
 
 ### Techs

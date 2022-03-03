@@ -38,3 +38,10 @@ I'm mainly interested in **Time Series Analysis & Machine Learning**.
   - Statistical Data Mining
 - ```2021 Summer```
   - Artificial Intelligence Application
+- ```2022 Spring```
+  - Advanced Mathematical Statistics
+  - Advanced Regression Analysis
+  - Introduction to Time Series Analysis
+  - Investments
+  - Mathematical Statistics(Statistical Inference course, took at Korea University as an exchange student)
+  - Categorical Data Analysis(took at Korea University as an exchange student)

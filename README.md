@@ -25,7 +25,7 @@ I'm mainly interested in **Time Series Analysis & Machine Learning**.
   - Matrix Algebra
   - Mathematics for Statistics(Calculus)
 - ```2020 Fall```
-  - Introduction to Mathematical Statistics(Part 1)
+  - Introduction to Mathematical Statistics(Probability course)
   - Introduction to Regression Analysis
   - Introduction to Statistical Programming(R basic programming)
 - ```2020 Winter```
@@ -39,7 +39,7 @@ I'm mainly interested in **Time Series Analysis & Machine Learning**.
 - ```2021 Summer```
   - Artificial Intelligence Application
 - ```2022 Spring```
-  - Advanced Mathematical Statistics
+  - Advanced Mathematical Statistics(Probability course)
   - Advanced Regression Analysis
   - Introduction to Time Series Analysis
   - Investments

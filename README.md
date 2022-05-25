@@ -8,7 +8,7 @@ I'm mainly interested in **Time Series Analysis & Causal Inference**, and curren
 
 ### Education
 - ```2016.03 ~ 2019.02``` Dongtan Global High School (Gyeonggi, South Korea) <br/>
-- ```2019.03 ~``` B.E. in Statistics and B.S. in Mathematics, Sungkyunkwan University (Seoul, South Korea) <br/>
+- ```2019.03 ~``` B.E. in Statistics and B.S. in Mathematics(double major), Sungkyunkwan University (Seoul, South Korea) <br/>
 - ```2022.03 ~ 2022.06``` Domestic Exchange Student at Department of Statistics, Korea University (Seoul, South Korea) <br/>
 
 ### Awards & Scholarships

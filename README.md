@@ -1,6 +1,6 @@
 ### Hi there 👋🏻
-I'm Hailee Hyungyeong Hong, an undergraduate student who is studying **Statistics** at Sungkyunkwan University.  
-I'm mainly interested in **Time Series Analysis & Machine Learning**.  
+I'm Hailee Hyungyeong Hong, an undergraduate student who is studying **Statistics and Mathematics** at Sungkyunkwan University.  
+I'm mainly interested in **Time Series Analysis & Causal Inference**.  
 
 ### Techs
 <img src="https://img.shields.io/badge/R-276DC3?style=flat-square&logo=R&logoColor=white"/></a>
@@ -8,7 +8,12 @@ I'm mainly interested in **Time Series Analysis & Machine Learning**.
 
 ### Education
 - ```2016.03 ~ 2019.02``` Dongtan Global High School (Gyeonggi, South Korea) <br/>
-- ```2019.03 ~``` Department of Statistics, Sungkyunkwan University (Seoul, South Korea) <br/>
+- ```2019.03 ~``` B.E. in Statistics and B.S. in Mathematics, Sungkyunkwan University (Seoul, South Korea) <br/>
+- ```2022.03 ~ 2022.06``` Domestic Exchange Student at Department of Statistics, Korea University (Seoul, South Korea) <br/>
+
+### Awards & Scholarships
+- ```2019.09``` Academic Excellence Scholarship, 70% of the tuition </br>
+- ```2021.06``` 1st prize, KOPIS(Korea Performing Arts Box Office Information System) Big Data Analysis Contest
 
 ### External Activities
 - ```2021.03 ~ 2021.08``` Deep Learning Team, Statistical Analysis Group P-SAT <br/>
@@ -43,5 +48,5 @@ I'm mainly interested in **Time Series Analysis & Machine Learning**.
   - Advanced Regression Analysis
   - Introduction to Time Series Analysis
   - Investments
-  - Mathematical Statistics(Statistical Inference course, took at Korea University as an exchange student)
-  - Categorical Data Analysis(took at Korea University as an exchange student)
+  - Mathematical Statistics(Statistical Inference course)
+  - Categorical Data Analysis

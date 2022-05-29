@@ -1,5 +1,5 @@
 ### Hi there 👋🏻
-I'm Hailee Hyungyeong Hong, an undergraduate student who is studying **Statistics and Mathematics** at Sungkyunkwan University.  
+I'm Hailee Hyungyeong Hong, an undergraduate student who is studying **Statistics & Mathematics** at Sungkyunkwan University.  
 I'm mainly interested in **Time Series Analysis & Causal Inference**, and currently preparing for graduate school for further studies!  
 
 ### Techs

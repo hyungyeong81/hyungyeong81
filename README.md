@@ -1,6 +1,6 @@
 ### Hi there 👋🏻
 I'm Hailee Hyungyeong Hong, an undergraduate student who is studying **Statistics & Mathematics** at Sungkyunkwan University.  
-I'm mainly interested in **Time Series Analysis & Causal Inference**, and currently preparing for graduate school for further studies!  
+I'm mainly interested in **Time Series Analysis**, and currently preparing for graduate school for further studies!  
 
 ### Techs
 <img src="https://img.shields.io/badge/R-276DC3?style=flat-square&logo=R&logoColor=white"/></a>

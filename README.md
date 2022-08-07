@@ -9,7 +9,6 @@ I'm mainly interested in **Time Series Analysis**, and currently preparing for g
 ### Education
 - ```2016.03 ~ 2019.02``` Dongtan Global High School (Gyeonggi, South Korea) <br/>
 - ```2019.03 ~``` B.E. in Statistics and B.S. in Mathematics(double major), Sungkyunkwan University (Seoul, South Korea) <br/>
-- ```2022.03 ~ 2022.12``` Domestic Exchange Student at Department of Statistics, Korea University (Seoul, South Korea) <br/>
 
 ### Awards & Scholarships
 - ```2019.09``` Academic Excellence Scholarship, 70% of the tuition </br>

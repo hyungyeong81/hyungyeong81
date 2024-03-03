@@ -18,7 +18,7 @@ I'm mainly interested in **Time Series Analysis**, and currently preparing for g
 &emsp;
 &ensp;
                           GPA: 4.17/4.5 (Statistics), 4.04/4.5 (Mathematics), 4.14/4.5 (overall) <br/>
-- ```2022.03 ~ 2022.12``` Domestic Exchange Student(Department of Statistics, Department of Mathematics), Korea University (Seoul, South Korea) <br/>
+- ```2022.03 ~ 2022.12``` Domestic Exchange Student, Korea University (Seoul, South Korea) <br/>
 
 ### Scholarships
 - ```Fall 2019``` Academic Excellence Scholarship, 70% of the tuition </br>

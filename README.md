@@ -8,15 +8,31 @@ I'm mainly interested in **Time Series Analysis**, and currently preparing for g
 
 ### Education
 - ```2016.03 ~ 2019.02``` Dongtan Global High School (Gyeonggi, South Korea) <br/>
-- ```2019.03 ~``` B.E. in Statistics and B.S. in Mathematics(double major), Sungkyunkwan University (Seoul, South Korea) <br/>
+- ```2019.03 ~ 2024.08``` B.E. in Statistics and B.S. in Mathematics(double major), Sungkyunkwan University (Seoul, South Korea) <br/>
+&emsp;
+&emsp;
+&emsp;
+&emsp;
+&emsp;
+&emsp;
+&emsp;
+&ensp;
+                          GPA: 4.17/4.5 (Statistics), 4.04/4.5 (Mathematics), 4.14/4.5 (overall) <br/>
+- ```2022.03 ~ 2022.12``` Domestic Exchange Student(Department of Statistics, Department of Mathematics), Korea University (Seoul, South Korea) <br/>
 
-### Awards & Scholarships
-- ```2019.09``` Academic Excellence Scholarship, 70% of the tuition </br>
-- ```2021.06``` 1st prize, KOPIS(Korea Performing Arts Box Office Information System) Big Data Analysis Contest
+### Scholarships
+- ```Fall 2019``` Academic Excellence Scholarship, 70% of the tuition </br>
+- ```Fall 2022``` Dean's List, College of Economics, Sungkyunkwan University </br>
+- ```Spring 2023``` Academic Excellence Scholarship, College of Economics, Sungkyunkwan University (Received 10% of tuition) </br>
+
+### Awards
+- ```2021.06``` 1st prize, KOPIS(Korea Performing Arts Box Office Information System) Big Data Analysis Contest </br>
 
 ### External Activities
-- ```2021.03 ~ 2021.08``` Deep Learning Team, Statistical Analysis Group P-SAT <br/>
-- ```2021.09 ~ 2021.12``` Time Series Analysis Team, Statistical Analysis Group P-SAT <br/>
+- ```Spring 2021``` Deep Learning Team, Statistical Analysis Group P-SAT <br/>
+- ```Fall 2021``` Time Series Analysis Team, Statistical Analysis Group P-SAT <br/>
+- ```Spring 2022``` Teaching Assistant, Computational Thinking and Software Coding <br/>
+- ```Fall 2022``` Teaching Assistant, Problem Solving and Algorithms <br/>
 
 ### Undergraduate Courseworks
 - ```2019 Spring``` 
@@ -49,3 +65,19 @@ I'm mainly interested in **Time Series Analysis**, and currently preparing for g
   - Investments
   - Mathematical Statistics(Statistical Inference course)
   - Categorical Data Analysis
+- ```2022 Fall```
+  - Calculus2
+  - Introduction to Bayesian Statistics
+  - Computational Mathematics
+  - Stochastic Processes
+  - Differential Equations
+- ```2023 Spring```
+  - Number Theory
+  - Numerical Analysis
+  - Analysis
+  - Topology
+- ```2023 Fall(Final Semester)```
+  - Vector Analysis
+  - Analysis 2
+  - Introduction to Geometry
+  - Linear Algebra

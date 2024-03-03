@@ -21,7 +21,7 @@ I'm mainly interested in **Time Series Analysis**, and currently preparing for g
 - ```2022.03 ~ 2022.12``` Domestic Exchange Student, Korea University (Seoul, South Korea) <br/>
 
 ### Scholarships
-- ```Fall 2019``` Academic Excellence Scholarship, 70% of the tuition </br>
+- ```Fall 2019``` Academic Excellence Scholarship, University College, Sungkyunkwan University (Received 70% of tuition) </br>
 - ```Fall 2022``` Dean's List, College of Economics, Sungkyunkwan University </br>
 - ```Spring 2023``` Academic Excellence Scholarship, College of Economics, Sungkyunkwan University (Received 10% of tuition) </br>
 
